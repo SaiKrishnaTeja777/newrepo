@@ -1,7 +1,3 @@
 # newrepo
-	adojbsdgkjbsg
-sgd
-sgnojsgnjfgqsgqsgbjkbqsjgbqsjg
-qs
-gqg
 
+echo "new README for Devops clone "
